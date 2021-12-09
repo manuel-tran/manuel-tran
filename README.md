@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuel-tran
 - 👀 I’m interested in music, drawing, science and politics.
-- 🌱 I’m currently studying mathematics.
+- 🌱 I’m currently working at Helmholtz AI, Munich. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
