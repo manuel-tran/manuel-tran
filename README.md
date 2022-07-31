@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, drawing, science and politics.
 - 🌱 I’m currently working at Helmholtz AI and Roche Diagnostics. 
 - 💞️ I’m looking to collaborate on computational pathology.
-- 📫 How to reach me manuel.tran@helmholtz-muenchen.de
+- 📫 How to reach me manuel.tran@helmholtz-munich.de
 
 <!---
 manuel-tran/manuel-tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
